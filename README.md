@@ -28,16 +28,6 @@ I am a 20-year-old Mechatronics Engineering student who lives at the intersectio
 * **Engineering Design:** SolidWorks, AutoCAD.
 * **Simulation:** MATLAB, Multisim.
 
----
-
-## 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEMOxiiii&show_icons=true&theme=tokyonight" alt="MEMOxiiii GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEMOxiiii&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
 
 ---
 
